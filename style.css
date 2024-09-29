@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box {
+  width: 33rem;
+  height: 3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+  border-radius: 10px;
+  gap: 8px;
+  margin-top: 33rem;
+  margin-left: 33.3%;
+  margin-right: 33.33%;
+}
+
+button {
+  width: 4rem;
+  height: 2.5rem;
+  border-radius: 20px;
+}
